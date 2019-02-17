@@ -25,3 +25,5 @@ import tflearn
 ```
 
 **conv_nn8.1.data-00000-of-00001**, **conv_nn8.1.index** and **conv_nn8.1.meta** is model and weight data
+
+# **this code is more then a year old!**
