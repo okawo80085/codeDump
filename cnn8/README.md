@@ -1,3 +1,4 @@
+# **use cnn8.1, this code is old!**
 an old, ugly and badly designed cnn for number recognition from live video
 
 It requires:
