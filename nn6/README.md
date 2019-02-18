@@ -1,4 +1,4 @@
-# **use nn6.1, this code is old**
+# **use nn6.1, this code is old!**
 a really old and ugly neural network made for number classification from black and white 30x34 images 
 
 It requires:
