@@ -7,6 +7,7 @@ It requires:
 * Numpy
 * Opencv2
 * PIL
+* Imutils
 
 to use it run **cnn8_p.py** you need a camera connected
 ```python
