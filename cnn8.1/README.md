@@ -34,4 +34,6 @@ to run the training process run **cnn8.1.py**
 python3 cnn8.1.py
 ```
 
+**data** does not contain the data it was trained on, it is there only as an example!
+
 **conv_nn8.1.data-00000-of-00001**, **conv_nn8.1.index** and **conv_nn8.1.meta** are model and weight data used to load the pre-trained model
