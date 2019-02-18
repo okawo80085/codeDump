@@ -31,4 +31,7 @@ to run the training process run **nn6.1.py**
 python3 nn6.1.py
 ```
 
+
+**data** does not contain the data it was trained on, it is there only as an example!
+
 **net7.tflearn.data-00000-of-00001**, **net7.tflearn.index** and **net7.tflearn.meta** are model and weight data used to load the pre-trained model
