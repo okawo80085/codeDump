@@ -22,3 +22,5 @@ python3 nn6_p.py
 if you want to re-train it you can try to poke around **nn6.py** but i recommend making your own trainer, nn is defined from *line 35* to *line 46* in **nn6.py** or **nn6_p.py**
 
 **net7.tflearn.data-00000-of-00001**, **net7.tflearn.index** and **net7.tflearn.meta** is model and weight data used to load the neural network
+
+# **this code is more then a year old!**
